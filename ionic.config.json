@@ -1,0 +1,7 @@
+{
+  "name": "MyCashier",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
